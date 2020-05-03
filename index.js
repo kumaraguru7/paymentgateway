@@ -117,3 +117,8 @@ var readyInterval = setInterval(function() {
         clearInterval(readyInterval);
     }
 }, 250);
+
+
+/*
+https://goo.gl/PLbrBK
+*/
